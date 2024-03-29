@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabaKirala", "ArabaKirala\ArabaKirala.csproj", "{60A9425E-B5F9-42AE-8B8A-C7C7B6855EAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{096E9CA7-8C73-496C-8FF6-2320A3C20CC7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\arabaexport.xls = ..\..\arabaexport.xls
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A9425E-B5F9-42AE-8B8A-C7C7B6855EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A9425E-B5F9-42AE-8B8A-C7C7B6855EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A9425E-B5F9-42AE-8B8A-C7C7B6855EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A9425E-B5F9-42AE-8B8A-C7C7B6855EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0DF5C7E-36DB-437C-BD4E-A5E4F9B01B6A}
+	EndGlobalSection
+EndGlobal
